@@ -1,0 +1,29 @@
+.picker_input {
+    border: 1px solid grey;
+    border-radius: 7px;
+    width: 201px;
+    height: 25px;
+    font-size: 12px;
+    font-family: Aviner;
+}
+.select-body {
+    width: 201px;
+    height: 205px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    font-size: 12px;
+    font-family: Aviner;
+}
+#picker-container {
+    width: 201px;
+    display: flex;
+    flex-direction: column;
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    margin: 0;
+}
